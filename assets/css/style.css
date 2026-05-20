@@ -64,7 +64,9 @@ a {
   max-width: 720px;
   margin-bottom: 2rem;
 }
-
+h1.hero-title.animate-on-scroll.is-visible {
+    font-size: 54px;
+}
 .section-heading h2,
 .form-section h2,
 .countdown-wrap h2 {
