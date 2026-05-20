@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="520" viewBox="0 0 720 520" role="img" aria-label="AlUla destination">
+  <rect width="720" height="520" fill="#e9c48d"/>
+  <path d="M0 338c96-64 174-77 235-41 64 38 118 36 162-5 70-65 178-60 323 15v213H0z" fill="#9c5a38"/>
+  <path d="M100 520V310c0-74 46-119 110-119h66c-26 86-18 195 22 329zM440 520V264c0-68 49-111 122-111h58c-32 132-20 255 37 367z" fill="#6f3e2b"/>
+  <path d="M310 520V354c0-53 30-86 78-86h32c-26 82-23 166 9 252z" fill="#7e4731"/>
+  <circle cx="604" cy="91" r="50" fill="#f4d995"/>
+  <text x="44" y="74" font-family="Arial" font-size="34" font-weight="800" fill="#071323">AlUla</text>
+</svg>

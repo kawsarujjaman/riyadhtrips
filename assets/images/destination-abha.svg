@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="520" viewBox="0 0 720 520" role="img" aria-label="Abha destination">
+  <rect width="720" height="520" fill="#cfe2dd"/>
+  <path d="M0 330l120-128 96 95 96-137 138 169 96-100 174 148v143H0z" fill="#456b5e"/>
+  <path d="M0 394l134-98 95 88 122-111 127 116 87-78 155 108v101H0z" fill="#213d36"/>
+  <path d="M0 421c138-38 260-38 366 0 106 38 224 36 354-6v105H0z" fill="#d6a64a"/>
+  <circle cx="600" cy="92" r="50" fill="#f4d995"/>
+  <text x="44" y="74" font-family="Arial" font-size="34" font-weight="800" fill="#071323">Abha</text>
+</svg>

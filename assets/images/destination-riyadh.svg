@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="520" viewBox="0 0 720 520" role="img" aria-label="Riyadh destination">
+  <rect width="720" height="520" fill="#d8e6ef"/>
+  <rect y="305" width="720" height="215" fill="#d6a64a"/>
+  <path d="M0 328c142-62 262-66 360-12 110 61 230 50 360-32v236H0z" fill="#a77839"/>
+  <rect x="265" y="150" width="58" height="190" fill="#071323"/>
+  <rect x="338" y="96" width="70" height="244" fill="#10243c"/>
+  <path d="M438 176h52v164h-52zM214 210h38v130h-38z" fill="#18385a"/>
+  <path d="M300 150c10-42 33-64 70-64s60 22 70 64" fill="none" stroke="#d6a64a" stroke-width="12"/>
+  <text x="44" y="74" font-family="Arial" font-size="34" font-weight="800" fill="#071323">Riyadh</text>
+</svg>

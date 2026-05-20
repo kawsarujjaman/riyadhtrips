@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88" role="img" aria-label="Noura profile">
+  <rect width="88" height="88" rx="44" fill="#efe4df"/>
+  <circle cx="44" cy="34" r="18" fill="#70462f"/>
+  <path d="M18 84c5-22 18-34 26-34s21 12 26 34" fill="#18385a"/>
+  <path d="M29 31c7-10 23-10 30 0" fill="none" stroke="#071323" stroke-width="5"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="520" viewBox="0 0 720 520" role="img" aria-label="International packages">
+  <rect width="720" height="520" fill="#dfe8f2"/>
+  <path d="M0 330c128-62 244-69 348-21 118 55 242 47 372-24v235H0z" fill="#6f8da5"/>
+  <path d="M148 268h424" stroke="#071323" stroke-width="8" stroke-linecap="round" opacity=".2"/>
+  <path d="M155 250l122 34 128-114 38 10-72 126 126 35-22 28-152-19-84 77-32-8 42-89-113-43z" fill="#071323"/>
+  <circle cx="582" cy="94" r="54" fill="#d6a64a"/>
+  <text x="44" y="74" font-family="Arial" font-size="34" font-weight="800" fill="#071323">International</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="520" viewBox="0 0 720 520" role="img" aria-label="Taif destination">
+  <rect width="720" height="520" fill="#efe4df"/>
+  <path d="M0 328c100-72 205-81 315-27 127 62 262 50 405-36v255H0z" fill="#8a6e5b"/>
+  <path d="M0 396c137-30 251-31 342-3 112 34 238 33 378-4v131H0z" fill="#d6a64a"/>
+  <g fill="#b8325a" opacity=".85">
+    <circle cx="150" cy="317" r="16"/><circle cx="186" cy="342" r="12"/><circle cx="522" cy="316" r="15"/><circle cx="570" cy="360" r="11"/><circle cx="410" cy="333" r="13"/>
+  </g>
+  <path d="M120 260c52-48 109-48 171 0M438 260c52-48 109-48 171 0" fill="none" stroke="#071323" stroke-width="8" opacity=".22"/>
+  <text x="44" y="74" font-family="Arial" font-size="34" font-weight="800" fill="#071323">Taif</text>
+</svg>

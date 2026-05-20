@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88" role="img" aria-label="Sarah profile">
+  <rect width="88" height="88" rx="44" fill="#f4d995"/>
+  <circle cx="44" cy="34" r="17" fill="#071323"/>
+  <path d="M18 83c5-22 18-33 26-33s21 11 26 33" fill="#10243c"/>
+  <circle cx="37" cy="34" r="3" fill="#fff"/><circle cx="51" cy="34" r="3" fill="#fff"/>
+</svg>

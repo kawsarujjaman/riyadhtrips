@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="520" viewBox="0 0 720 520" role="img" aria-label="Jeddah destination">
+  <rect width="720" height="520" fill="#bcddec"/>
+  <path d="M0 315c116-22 209-10 278 36 94 63 202 66 324 11 46-21 85-32 118-33v191H0z" fill="#1d7692"/>
+  <path d="M0 380c117 30 228 34 332 13 125-26 255-23 388 9v118H0z" fill="#071323" opacity=".24"/>
+  <circle cx="575" cy="103" r="58" fill="#f4d995"/>
+  <path d="M228 215h58v118h-58zM306 162h45v171h-45zM377 200h72v133h-72z" fill="#071323" opacity=".8"/>
+  <path d="M110 342c54-48 115-48 184 0" fill="none" stroke="#fff" stroke-width="8" opacity=".7"/>
+  <text x="44" y="74" font-family="Arial" font-size="34" font-weight="800" fill="#071323">Jeddah</text>
+</svg>
