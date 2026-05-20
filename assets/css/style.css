@@ -141,7 +141,7 @@ h1.hero-title.animate-on-scroll.is-visible {
 .btn-outline-navy {
   color: var(--navy);
   border: 1px solid rgba(7, 19, 35, 0.18);
-  background: var(--white);
+  background: var(--gold);
 }
 
 .btn-outline-navy:hover {
@@ -316,8 +316,12 @@ h1.hero-title.animate-on-scroll.is-visible {
   width: 100%;
   aspect-ratio: 16 / 11;
   object-fit: cover;
+  transition: all 0.5s ease-in-out;
 }
-
+.destination-card img:hover {
+    scale: 1.02;
+    filter: grayscale(10%) brightness(1.1);
+}
 .destination-card .card-body {
   position: relative;
   padding: 1.35rem;
